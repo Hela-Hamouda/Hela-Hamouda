@@ -36,7 +36,7 @@ Oscilloscope, multimètre, analyseur logique
 
 ## Projets
 
-- Détection de défauts de roulements par maintenance prédictive (stage ACTIA Engineering Services)
+- Détection de défauts de roulements par maintenance prédictive 
 - Décodage du mouvement de la main via EEG/EMG (Deep Learning vs ML)
 - Régulation de vitesse d'un ventilateur sur STM32F411
 - Driver noyau Linux pour moteur DC (BeagleBone Black)
