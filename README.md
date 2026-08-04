@@ -60,4 +60,4 @@ Classe Préparatoire Intensive, Mathématiques & Physique — 2022–2024
 
 - Email : hela.hamouda@etudiant-enit.utm.tn
 - Téléphone : +216 25 805 207
-- LinkedIn : [hela-hamouda](https://www.linkedin.com/in/hela-hamouda)
+- LinkedIn : [hela-hamouda](https://www.linkedin.com/in/hela-hamouda-690695326)
